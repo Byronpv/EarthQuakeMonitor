@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Earthquake Monitor</string>
+    <string name="no_earthquake_right_now">No earthquake right now</string>
+    <string name="magnitude_format">%.2f</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="ritcher">Ritcher Scale</string>
+    <string name="earthquake">EARTHQUAKE MONITOR</string>
+    <string name="earthqueake">Earthqueake</string>
+
+</resources>
